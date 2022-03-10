@@ -2,7 +2,5 @@
 
 ## Install
 
-pip install;
-
-python-nmap;
+pip install python-nmap
 
